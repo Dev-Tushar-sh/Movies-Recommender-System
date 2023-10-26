@@ -1,0 +1,3 @@
+Due to large size of the similarity.pkl file the file could not be uploded here 
+similarity.pkl file contain array of arrays that contain array of similarity vector 
+for every movie present in dataset with every other movie in dataset 4806 X 4806 values in array
